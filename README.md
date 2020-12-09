@@ -23,3 +23,4 @@ This modified code was used to produce 4 versions available from [dockerhub](htt
 - `iter8/reviews:istio-v2` - color set to `black`
 - `iter8/reviews:istio-v3` - color set to `red`
 - `iter8/reviews:istio-v4` - color set to `yellow` (and introduces a 5s delay)
+test
